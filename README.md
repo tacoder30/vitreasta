@@ -105,7 +105,3 @@ import Home from '@pages/Home'
 | `npm run dev`  | Jalankan development server   |
 | `npm run build`| Build untuk produksi          |
 | `npm run preview`| Preview build produksi     |
-
-## Lisensi
-
-MIT License
