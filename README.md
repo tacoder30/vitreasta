@@ -17,7 +17,7 @@
 ## Struktur Proyek
 
 ```
-vite-react-starter/
+vitreasta/
 ├── public/
 ├── src/
 │   ├── assets/
